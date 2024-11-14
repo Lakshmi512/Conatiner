@@ -14,14 +14,14 @@
 - - [Step-1](#step-1-run-docker-image-into-container)
 - [Container Runtimes](#container-runtime)
 - [Container Registry](#container-registry)
-- [Conclusion]()
+  
 
 
 ## Introduction
 
 <img src ="https://enterprisersproject.com/sites/default/files/styles/large/public/images/CIO%20Containers%20Ecosystem.png?itok=oSrmsEqL">
 
-In this document, we will learn about some concepts of Container.
+In this document, we will learn some concepts of container.
 
 
 ## Image Building
