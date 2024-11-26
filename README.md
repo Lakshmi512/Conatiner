@@ -125,7 +125,7 @@ c9c127235e24   img_apache   "/usr/sbin/apache2 -…"   8 seconds ago   Exited (1
 http://localhost:8080
 ```
 
-![Apache image](image-1.png)
+![Screenshot from 2024-11-13 18-05-21](https://github.com/user-attachments/assets/336c43c4-8ca3-447d-8bf6-aa98691b26e8)
 
 
 ## Container Runtime
