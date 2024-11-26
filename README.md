@@ -137,10 +137,10 @@ http://localhost:8080
 Container runtime is part of the containerization tool, that is responsible for starting, running, stopping & managing the container So, that the container runs smoothly in any environment. 
 
 There are two types of Container Runtime: -
-- Low Level
-A low-level container runtime is the basic tool that directly manages the containers. It is responsible for starting and stopping containers, like creating and managing the container’s file system, networking, and resources. Examples: - Youki, Containerd
+- Low Level: - 
+A low-level container runtime is the basic tool that directly manages the containers. It is responsible for starting and stopping containers, like creating and managing the container’s file system, networking, and resources. Examples: - Youki, runc
 
-- High Level
+- High Level: - 
 A high-level container runtime builds on top of low-level runtimes and also Works with it so, that provides extra tools which make it easier to work with containers. It is responsible for building, and pushing images to registries, managing multi-container setups, and more. Examples: - Docker, Docker, Amazon ECS
 
 
